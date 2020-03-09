@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Kotlin
+title: Модуль №1. Kotlin
 parent: Материалы к урокам
 nav_order: 1
 ---
 
-# Материалы к урокам
+# Модуль №1. Kotlin.
 {: .no_toc }
 
 ## Список уроков
@@ -92,4 +92,3 @@ Flow
 
 Concurrency
 {: .label .label-blue }
----
