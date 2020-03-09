@@ -17,6 +17,9 @@ nav_order: 1
 
 ## Kotlin
 
+### Kotlin stdlib
+{: .text-gamma }
+
 ### Документация
 {: .no_toc }
 - [Kotlin language documentation](https://kotlinlang.org/docs/kotlin-docs.pdf)
@@ -51,9 +54,11 @@ nav_order: 1
 Kotlin
 {: .label .label-blue }
 
+
 ---
 
-## Coroutines
+### Kotlin Coroutines
+{: .text-gamma }
 
 To specify a page order, use the `nav_order` parameter in your pages' YAML front matter.
 
