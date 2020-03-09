@@ -24,9 +24,9 @@ nav_order: 1
 
 ### Книги 
 {: .no_toc }
-- Kotlin in action. Лучшая книга по kotlin от авторов языка. Есть на русском и английском языках. [Купить](https://www.manning.com/books/kotlin-in-action)
-- Effective Kotlin. Хорошая книга с best practices, аналог Effective Java Джошуа Блоха, но про Kotlin.[Купить](https://leanpub.com/effectivekotlin/)
-- Kotlin for Android Developers. Неплохая книга, вышла одна из первых вместе с Kotlin in Action. В ней много примеров по решению практических задач с которыми вы столкнетесь при написании Android приложения на Kotlin. [Купить](https://leanpub.com/kotlin-for-android-developers)
+- **Kotlin in action**. Лучшая книга по kotlin от авторов языка. Есть на русском и английском языках. [Купить](https://www.manning.com/books/kotlin-in-action)
+- **Effective Kotlin**. Хорошая книга с best practices, аналог Effective Java Джошуа Блоха, но про Kotlin.[Купить](https://leanpub.com/effectivekotlin/)
+- **Kotlin for Android Developers**. Неплохая книга, вышла одна из первых вместе с Kotlin in Action. В ней много примеров по решению практических задач с которыми вы столкнетесь при написании Android приложения на Kotlin. [Купить](https://leanpub.com/kotlin-for-android-developers)
 
 За последние пару лет вышло [большое количество](https://kotlinlang.org/docs/books.html) книг про Kotlin, но впервую очередь советую обратить внимание именно на эти.
 
@@ -47,6 +47,9 @@ nav_order: 1
 
 - [Блог Романа Елизарова](https://medium.com/@elizarov). Куча крутейших статей про конкаренси, корутины и др.
 - [Официальный Kotlin Blog](https://blog.jetbrains.com/kotlin/). Тут я читаю патч ноуты и новости. Кому удобнее читать в телеграмме [вот](https://t.me/TheDailyKotlin).
+
+Kotlin
+{: .label .label-blue }
 
 ---
 
