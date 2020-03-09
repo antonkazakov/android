@@ -61,6 +61,7 @@ Kotlin
 {: .text-gamma }
 
 #### Документация
+{: .no_toc }
 [Документация](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
 [kdocs](https://kotlin.github.io/kotlinx.coroutines/) по корутинам, флоу и т.п.
 
@@ -81,4 +82,15 @@ Kotlin
 {: .no_toc }
 - [Блог Романа Елизарова](https://medium.com/@elizarov). Куча крутейших статей про конкаренси, корутины и др.
 
+Kotlin
+{: .label .label-blue }
+
+Coroutines
+{: .label .label-blue }
+
+Flow
+{: .label .label-blue }
+
+Concurrency
+{: .label .label-blue }
 ---
