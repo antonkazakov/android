@@ -15,8 +15,6 @@ nav_order: 1
 
 ---
 
-# Kotlin
-
 ## Kotlin stdlib
 {: .text-gamma }
 
@@ -62,14 +60,14 @@ Kotlin
 
 ### Документация
 {: .no_toc }
-[Документация](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
-[kdocs](https://kotlin.github.io/kotlinx.coroutines/) по корутинам, флоу и т.п.
+- [Документация](https://kotlinlang.org/docs/reference/coroutines/coroutines-guide.html)
+- [kdocs](https://kotlin.github.io/kotlinx.coroutines/) по корутинам, флоу и т.п.
 
 ### Видео
 {: .no_toc }
-[Доклад](https://www.youtube.com/watch?v=b4mBmi1QNF0&) от главного дизайнера корутин Романа Елизарова.
-[Еще один доклад](https://www.youtube.com/watch?v=hdbI_hp6FvM) от Романа об использовании корутин на сервере, проблемах и их решениях. 
-[Крутой доклад](https://www.youtube.com/watch?v=9KSxI3eACd8) (к сожалению только вторая половина) в котором рассматривается SPC, Continuations, FSM и прочие внутренности корутин. 
+- [Доклад](https://www.youtube.com/watch?v=b4mBmi1QNF0&) от главного дизайнера корутин Романа Елизарова.
+- [Еще один доклад](https://www.youtube.com/watch?v=hdbI_hp6FvM) от Романа об использовании корутин на сервере, проблемах и их решениях. 
+- [Крутой доклад](https://www.youtube.com/watch?v=9KSxI3eACd8) (к сожалению только вторая половина) в котором рассматривается SPC, Continuations, FSM и прочие внутренности корутин. 
 
 Также можно посмотреть плейлисты с KotlinConf и выбрать оттуда доклады про корутины. 
 - [KotlinConf 2017](https://www.youtube.com/watch?v=spFtUgL32yA&list=PLQ176FUIyIUY6UK1cgVsbdPYA3X5WLam5)
