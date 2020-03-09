@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Kotlin
+title: Architecture
 parent: Материалы к урокам
-nav_order: 1
+nav_order: 2
 ---
 
-# Модуль #1. Kotlin
+# Модуль #2. Architecture
 {: .no_toc }
 
 ## Список уроков
