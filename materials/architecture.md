@@ -83,19 +83,19 @@ TBD
 #### Документация
 {: .no_toc }
 
--[Официальная документация](https://dagger.dev/users-guide)
+- [Официальная документация](https://dagger.dev/users-guide)
 
 #### Видео
 {: .no_toc }
 
 - [Крутой доклад](https://www.youtube.com/watch?v=oK_XtfXPkqw) от Gregory Kick из Google про то чем Dagger 2 отличается от Guice/Dagger, чем вдохновлялись авторы при создании Dagger 2 и как он работает внутри.
 - [Хардкорный доклад](https://www.youtube.com/watch?v=wCvXe2LsN5o&t) от авторов библиотеки про то как Dagger 2 генерирует код. К сожалению, в видео проблемы со звуком, но в наушниках можно разобрать что говорят спикеры.
-- [Доклад](https://www.youtube.com/watch?v=PBrhRvhF00k&t) от Ron Shapiro(основной мейнтенер) про Dagger Android.
+- [Доклад](https://www.youtube.com/watch?v=PBrhRvhF00k&t) от Ron Shapiro (*основной контрибьютор Dagger 2*) про Dagger Android.
 
 #### Статьи
 {: .no_toc }
 
-- [Хороишй Блог](https://mirekstanek.online/category/android/dagger-2/) со множеством статьи про Dagger 2. Мне особенно зашла [статья](https://mirekstanek.online/dagger2metrics-measure-performance-of-di-graph-initialization/) про измерение перфоманса инициализации графа
+- [Хороший Блог](https://mirekstanek.online/category/android/dagger-2/) со множеством статей про Dagger 2. Мне особенно зашла [статья](https://mirekstanek.online/dagger2metrics-measure-performance-of-di-graph-initialization/) про измерение перфоманса инициализации графа
 - [Отличный цикл](https://habr.com/en/post/279125/) статей по знакомству с основными возможностями Dagger 2
 - Некоторые [best practises](https://proandroiddev.com/dagger-2-on-android-the-official-guidelines-you-should-be-following-2607fd6c002e) по использованию Dagger 2
 - [Статья](https://habr.com/en/company/yandex/blog/419295/) по правильному использованию Dagger 2 в многомодульном приложении. Есть множество подходов к построению многомодульного приложения и организации DI контейнеров в нем, но на мой взгляд, этот лучший
@@ -111,7 +111,7 @@ TBD
 
 - [Отличный доклад](https://www.youtube.com/watch?v=pMEAD6jjbaI) про организацию многомодульного приложения и DI контейнера в нем
 - Крайне полезный [доклад](https://www.youtube.com/watch?v=MGczcEukjEY) с AppsConf 2019 о способах ускорения сборки многомодульного проекта 
-- [Один из первых докладов](https://www.youtube.com/watch?v=FMiFtsew2UY) о многомодульности в Android приложениях от Дениса Неклюдова + [семпл](https://github.com/kotlinsg/modular) 
+- [Один из первых докладов](https://www.youtube.com/watch?v=FMiFtsew2UY) о многомодульности в Android приложениях от Дениса Неклюдова
 
 #### Статьи
 {: .no_toc }
@@ -124,10 +124,10 @@ TBD
 #### Примеры
 {: .no_toc }
 
-- https://github.com/android/plaid
-- https://github.com/chrisbanes/tivi
-- https://github.com/kotlinsg/modular
-- https://github.com/Tagakov/modules-and-dagger
+- [https://github.com/android/plaid]
+- [https://github.com/chrisbanes/tivi]
+- [https://github.com/kotlinsg/modular]
+- [https://github.com/Tagakov/modules-and-dagger]
 
 
 ---
