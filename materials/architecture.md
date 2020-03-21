@@ -124,10 +124,10 @@ TBD
 #### Примеры
 {: .no_toc }
 
-- [https://github.com/android/plaid]
-- [https://github.com/chrisbanes/tivi]
-- [https://github.com/kotlinsg/modular]
-- [https://github.com/Tagakov/modules-and-dagger]
+- [https://github.com/android/plaid](https://github.com/android/plaid)
+- [https://github.com/chrisbanes/tivi](https://github.com/chrisbanes/tivi)
+- [https://github.com/kotlinsg/modular](https://github.com/kotlinsg/modular)
+- [https://github.com/Tagakov/modules-and-dagger](https://github.com/Tagakov/modules-and-dagger)
 
 
 ---
