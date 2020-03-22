@@ -55,7 +55,7 @@ TBD
 
 #### Видео
 {: .no_toc }
-- [Доклад](https://www.youtube.com/watch?v=htIXKI5gOQU) Джейка Вортон про RxJava 2 в контексте Android разработки
+- [Доклад](https://www.youtube.com/watch?v=htIXKI5gOQU) Джейка Вортона про RxJava 2 в контексте Android разработки
 - Старые, но очень хорошие доклады [раз](https://www.youtube.com/watch?v=Eatfi4am0HU) и [два](https://www.youtube.com/watch?v=3jdvLrYZfB4&t),  которые знакомят с основами RxJava. Часть устарела, но общие положения все еще актуальны.
 
 #### Статьи
