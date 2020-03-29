@@ -16,7 +16,7 @@ nav_order: 5
 
 ---
 
-### Testing. Юнит-тесты и интеграционные тесты.
+### Testing. Юнит тесты и интеграционные тесты.
 {: .text-gamma }
 
 #### Книги
@@ -58,6 +58,7 @@ nav_order: 5
 - [Репозиторий Kaspresso](https://github.com/KasperskyLab/Kaspresso). Kaspresso крутой фреймворк для UI-тестирования поверх Kakao. Помимо симпатичного DSL для написания тестов там есть обертка над UI Automator, ADB Server и интерсепторы для решения проблем с flaky тестами
 - [Spoon](https://square.github.io/spoon/) - программа которая позволяет удобно управлять выполнением тестов на ферме. Неплохие отчеты, удобное api
 - [Mockwebserver](https://github.com/square/okhttp/tree/master/mockwebserver) для OkHttp клиента и [дополнение](https://github.com/fabric8io/mockwebserver) для него которое предоставляет более удобный API. Используется для того чтобы мокать респонсы
+
 #### Видео
 {: .no_toc}
 
